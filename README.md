@@ -1,6 +1,6 @@
 # Event Scheduling Site
 
-View the Live Wesbite Here : https://nazneen-k.github.io/Event-Scheduling-Site/
+View the Live Wesbite Here : https://nazneen-k.github.io/Event-Scheduling-Site.github.io/
 
 ![Screenshot 2023-11-06 192816](https://github.com/nazneen-k/Event-Scheduling-Site/assets/117660793/377cb56e-0211-4580-b784-b195797272a4)
 
